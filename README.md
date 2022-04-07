@@ -16,8 +16,6 @@
 
 - The needs of customers can be focused on
 
-
-
 ##### Methodologies
 
 - Scrum
@@ -29,8 +27,6 @@
 - Lean
 
 - Crystal
-
-
 
 ## Scrum
 
@@ -88,7 +84,7 @@
     
     - Identify tasks from Product Backlog, add to Sprint Backlog
     
-    ![](E:\Scrum\SprintBacklog.png)
+    ![](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/SprintBacklog_0.png)
   
   - **Product Increment**:
     
@@ -98,7 +94,7 @@
 
 ##### Scrum Framework
 
-<img src="file:///E:/Scrum/scrum-framework.png" title="" alt="" width="712">
+<img title="" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png" alt="" width="712">
 
 - Product Backlog: a list of tasks to achieve  the goal
 
@@ -122,7 +118,7 @@
 
 ##### Scrum Board
 
-<img src="file:///E:/Scrum/scrum_board.webp" title="" alt="" width="558">
+<img title="" src="https://www.zohowebstatic.com/sites/default/files/sprints/seo/sb-how-img2.webp" alt="" width="558">
 
 - A  physical or virtual tool that helps tema to visualize items in the sprint backlog 
 
